@@ -1,0 +1,44 @@
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background :rgb(231, 212, 210);
+}
+
+
+
+/* About Section*/
+.main__section{
+    padding: 60px 60px;
+    background:rgb(231, 212, 210);
+    color:teal
+}
+
+.main__text{
+    display:grid;
+    grid-template-rows: 1fr 1fr;
+    justify-content: center;
+    
+}
+
+/*portfolio*/
+.portfolio__container{
+    padding: 60px 60px;
+    background:rgb(231, 212, 210);
+    color:teal
+    
+}
+
+
+
+/*contact*/
+.contact{
+    padding: 60px 60px;
+    background:rgb(231, 212, 210);
+    color:teal
+}
+
+
+
+
